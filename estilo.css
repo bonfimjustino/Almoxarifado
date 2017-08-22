@@ -1,0 +1,103 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background: #757575;
+}
+.status {		
+	height: 22px;
+	background: #404343;	
+	font: 14px/14px sans-serif;
+	color: #ffffff;
+	margin-left: 260px;
+	margin-right: 260px;
+	padding-top: 10px;
+	padding-right: 5px;
+}
+
+.hard{
+	display:inline; 	
+	float: right;
+	margin-right: 10px;
+}
+.firm{
+	display:inline; 	
+	float: right;
+	margin-right: 390px;
+}
+.titulo{
+	margin-left: 260px;
+	margin-right: 260px;
+	height: 90px;
+	background: #ff7a2d; /* Old browsers */
+	background: -moz-linear-gradient(left, #ff7a2d 0%, #ff7c3a 48%, #ff8f54 88%, #ff9b66 100%, #ffb68c 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #ff7a2d 0%,#ff7c3a 48%,#ff8f54 88%,#ff9b66 100%,#ffb68c 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #ff7a2d 0%,#ff7c3a 48%,#ff8f54 88%,#ff9b66 100%,#ffb68c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff7a2d', endColorstr='#ffb68c',GradientType=1 ); /* IE6-9 */
+}
+
+.espaço{
+	margin-left: 260px;
+	margin-right: 260px;
+	background: #ffffff;
+	height: 4px;
+}
+.conteudo{
+	margin-left: 260px;
+	margin-right: 260px;
+	background: #ffffff;
+	height: 350px;
+	padding-top: 50px;
+	
+}
+
+.login{
+	margin-left: 150px;
+	margin-right: 150px;
+	background: #F1F1F1;
+	height: 290px;
+	border: 1px solid #F36D23;
+	font: 14px/14px arial; 
+}
+.titulo-login{
+	margin-left: 150px;
+	margin-right: 150px;
+	height:17px;
+	background:#F36D23;
+	padding-left: 5px;
+	padding-top: 3px;
+	font: bold 13px/14px sans-serif;
+	
+}
+.rodape{
+	height: 40px;
+	background: #404343;	
+	font: 14px/14px sans-serif;
+	color: #ffffff;
+	margin-left: 260px;
+	margin-right: 260px;
+}
+#usuario{
+	margin-top: 80px;
+	margin-bottom: 15px;
+	font: 14px/14px arial;
+}
+#lab-us{
+	margin-top: 80px;
+	margin-left: 154px;
+	margin-right: 10px;
+}
+#lab-se {
+	margin-top: 80px;
+	margin-left: 160px;
+	margin-right: 12px;
+}
+#senha{
+	margin-bottom: 10px;
+	font: 14px/14px arial;
+}
+#btn-entrar{
+	margin-left: 344px;
+	
+}
